@@ -2,7 +2,7 @@
 
 <!--
 **letsgologan/letsgologan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Server side and automation team.
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Linux world.
 - 💬 Ask me about Linux mainly or Bash.
 - 📫 How to reach me: phantanphong98@gmail.com
--->
